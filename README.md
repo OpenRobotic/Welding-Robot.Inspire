@@ -1,2 +1,2 @@
 # Welding-Robot.Inspire
-https://www.weldstar.com/automation-solutions
+Lists many different Types: https://www.weldstar.com/automation-solutions
